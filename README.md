@@ -7,6 +7,6 @@ Features:
 * Random Starting Position.
 
 Solution can be found at the here:
-* [a relative link](main.js)
+* [main.js file](main.js)
 
 https://www.codecademy.com/practice/projects/find-your-hat
